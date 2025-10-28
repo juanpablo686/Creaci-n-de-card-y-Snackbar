@@ -1,6 +1,10 @@
-# Real Madrid Card - Flutter App
+# 🏆 Real Madrid Card - Flutter App
 
-Una aplicación Flutter simple que muestra una Card centrada del Real Madrid. Al tocar la card, se muestra un SnackBar con un mensaje de celebración.
+Una aplicación Flutter que muestra una **Card centrada del Real Madrid** con imagen oficial del escudo. Al tocar la card, aparece un **SnackBar con mensajes dinámicos** diferentes cada vez.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Real Madrid](https://img.shields.io/badge/Real%20Madrid-FFFFFF?style=for-the-badge&logo=realmadrid&logoColor=purple)
 
 ## Características
 
